@@ -1,4 +1,4 @@
-# SanVaea MQL5 Trading System
+# sanvaea MQL5 Trading System
 
 _Terakhir diperbarui: 2025-05-03 06:56:24 UTC_
 _Maintainer: @SanClassTradingLabs_
