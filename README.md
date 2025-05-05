@@ -168,6 +168,7 @@ Metodologi: Attention + scoring
 
 Output: Highlight area
 
+#
 ZeroShot_CodeGPT
 
 Identitas: Penulis kode tanpa pelatihan spesifik
@@ -180,6 +181,7 @@ Metodologi: GPT Zero-shot
 
 Output: Kode langsung
 
+#
 ExplainWithCode
 
 Identitas: Penerjemah natural ke kode
@@ -192,6 +194,7 @@ Metodologi: Seq2Seq + decoder kode
 
 Output: Fungsi valid
 
+#
 DynamicCodeRerouter
 
 Identitas: Penyesuai jalur eksekusi
@@ -216,6 +219,7 @@ Metodologi: Static analysis net
 
 Output: Flag aman / tidak
 
+#
 SmartRefactorEngine
 
 Identitas: Mesin refaktor mandiri
